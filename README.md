@@ -1,4 +1,4 @@
-## AudioSSL
+## Neural Audio Classification
 
 Small test-project to learn how audio preprocessing works with torchaudio.
 
